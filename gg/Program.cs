@@ -10,5 +10,8 @@ namespace gg
         }
     }
 
+    class Dom
+    {
 
+    }
 }
